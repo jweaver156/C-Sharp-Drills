@@ -1,0 +1,12 @@
+/Users/John/Documents/GitHub/C-Sharp-Projects/classMethods/classMethods/obj/Debug/netcoreapp3.1/classMethods.csprojAssemblyReference.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/classMethods/classMethods/obj/Debug/netcoreapp3.1/classMethods.AssemblyInfoInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/classMethods/classMethods/obj/Debug/netcoreapp3.1/classMethods.AssemblyInfo.cs
+/Users/John/Documents/GitHub/C-Sharp-Projects/classMethods/classMethods/obj/Debug/netcoreapp3.1/classMethods.csproj.CoreCompileInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/classMethods/classMethods/bin/Debug/netcoreapp3.1/classMethods.deps.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/classMethods/classMethods/bin/Debug/netcoreapp3.1/classMethods.runtimeconfig.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/classMethods/classMethods/bin/Debug/netcoreapp3.1/classMethods.runtimeconfig.dev.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/classMethods/classMethods/bin/Debug/netcoreapp3.1/classMethods.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/classMethods/classMethods/bin/Debug/netcoreapp3.1/classMethods.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/classMethods/classMethods/obj/Debug/netcoreapp3.1/classMethods.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/classMethods/classMethods/obj/Debug/netcoreapp3.1/classMethods.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/classMethods/classMethods/obj/Debug/netcoreapp3.1/classMethods.genruntimeconfig.cache
