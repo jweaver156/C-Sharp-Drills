@@ -1,0 +1,12 @@
+/Users/John/Projects/OptionalParameters/OptionalParameters/bin/Debug/netcoreapp3.1/OptionalParameters.deps.json
+/Users/John/Projects/OptionalParameters/OptionalParameters/bin/Debug/netcoreapp3.1/OptionalParameters.runtimeconfig.json
+/Users/John/Projects/OptionalParameters/OptionalParameters/bin/Debug/netcoreapp3.1/OptionalParameters.runtimeconfig.dev.json
+/Users/John/Projects/OptionalParameters/OptionalParameters/bin/Debug/netcoreapp3.1/OptionalParameters.dll
+/Users/John/Projects/OptionalParameters/OptionalParameters/bin/Debug/netcoreapp3.1/OptionalParameters.pdb
+/Users/John/Projects/OptionalParameters/OptionalParameters/obj/Debug/netcoreapp3.1/OptionalParameters.csprojAssemblyReference.cache
+/Users/John/Projects/OptionalParameters/OptionalParameters/obj/Debug/netcoreapp3.1/OptionalParameters.AssemblyInfoInputs.cache
+/Users/John/Projects/OptionalParameters/OptionalParameters/obj/Debug/netcoreapp3.1/OptionalParameters.AssemblyInfo.cs
+/Users/John/Projects/OptionalParameters/OptionalParameters/obj/Debug/netcoreapp3.1/OptionalParameters.csproj.CoreCompileInputs.cache
+/Users/John/Projects/OptionalParameters/OptionalParameters/obj/Debug/netcoreapp3.1/OptionalParameters.dll
+/Users/John/Projects/OptionalParameters/OptionalParameters/obj/Debug/netcoreapp3.1/OptionalParameters.pdb
+/Users/John/Projects/OptionalParameters/OptionalParameters/obj/Debug/netcoreapp3.1/OptionalParameters.genruntimeconfig.cache
