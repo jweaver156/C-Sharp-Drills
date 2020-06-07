@@ -1,0 +1,12 @@
+/Users/John/Documents/GitHub/C-Sharp-Projects/Interface/Interface/bin/Debug/netcoreapp3.1/Interface.deps.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/Interface/Interface/bin/Debug/netcoreapp3.1/Interface.runtimeconfig.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/Interface/Interface/bin/Debug/netcoreapp3.1/Interface.runtimeconfig.dev.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/Interface/Interface/bin/Debug/netcoreapp3.1/Interface.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/Interface/Interface/bin/Debug/netcoreapp3.1/Interface.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/Interface/Interface/obj/Debug/netcoreapp3.1/Interface.csprojAssemblyReference.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/Interface/Interface/obj/Debug/netcoreapp3.1/Interface.AssemblyInfoInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/Interface/Interface/obj/Debug/netcoreapp3.1/Interface.AssemblyInfo.cs
+/Users/John/Documents/GitHub/C-Sharp-Projects/Interface/Interface/obj/Debug/netcoreapp3.1/Interface.csproj.CoreCompileInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/Interface/Interface/obj/Debug/netcoreapp3.1/Interface.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/Interface/Interface/obj/Debug/netcoreapp3.1/Interface.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/Interface/Interface/obj/Debug/netcoreapp3.1/Interface.genruntimeconfig.cache
