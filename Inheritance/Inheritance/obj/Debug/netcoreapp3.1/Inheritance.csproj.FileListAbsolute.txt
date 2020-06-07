@@ -1,0 +1,12 @@
+/Users/John/Documents/GitHub/C-Sharp-Projects/Inheritance/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.deps.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/Inheritance/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.runtimeconfig.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/Inheritance/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.runtimeconfig.dev.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/Inheritance/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/Inheritance/Inheritance/bin/Debug/netcoreapp3.1/Inheritance.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/Inheritance/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.csprojAssemblyReference.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/Inheritance/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.AssemblyInfoInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/Inheritance/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.AssemblyInfo.cs
+/Users/John/Documents/GitHub/C-Sharp-Projects/Inheritance/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.csproj.CoreCompileInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/Inheritance/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/Inheritance/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/Inheritance/Inheritance/obj/Debug/netcoreapp3.1/Inheritance.genruntimeconfig.cache
