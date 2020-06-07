@@ -1,0 +1,12 @@
+/Users/John/Documents/GitHub/C-Sharp-Projects/AbstractClassMthd/AbstractClassMthd/bin/Debug/netcoreapp3.1/AbstractClassMthd.deps.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/AbstractClassMthd/AbstractClassMthd/bin/Debug/netcoreapp3.1/AbstractClassMthd.runtimeconfig.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/AbstractClassMthd/AbstractClassMthd/bin/Debug/netcoreapp3.1/AbstractClassMthd.runtimeconfig.dev.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/AbstractClassMthd/AbstractClassMthd/bin/Debug/netcoreapp3.1/AbstractClassMthd.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/AbstractClassMthd/AbstractClassMthd/bin/Debug/netcoreapp3.1/AbstractClassMthd.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/AbstractClassMthd/AbstractClassMthd/obj/Debug/netcoreapp3.1/AbstractClassMthd.csprojAssemblyReference.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/AbstractClassMthd/AbstractClassMthd/obj/Debug/netcoreapp3.1/AbstractClassMthd.AssemblyInfoInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/AbstractClassMthd/AbstractClassMthd/obj/Debug/netcoreapp3.1/AbstractClassMthd.AssemblyInfo.cs
+/Users/John/Documents/GitHub/C-Sharp-Projects/AbstractClassMthd/AbstractClassMthd/obj/Debug/netcoreapp3.1/AbstractClassMthd.csproj.CoreCompileInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/AbstractClassMthd/AbstractClassMthd/obj/Debug/netcoreapp3.1/AbstractClassMthd.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/AbstractClassMthd/AbstractClassMthd/obj/Debug/netcoreapp3.1/AbstractClassMthd.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/AbstractClassMthd/AbstractClassMthd/obj/Debug/netcoreapp3.1/AbstractClassMthd.genruntimeconfig.cache
