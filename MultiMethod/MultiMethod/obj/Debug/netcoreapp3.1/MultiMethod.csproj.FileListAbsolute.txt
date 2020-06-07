@@ -1,0 +1,12 @@
+/Users/John/Documents/GitHub/C-Sharp-Projects/MultiMethod/MultiMethod/obj/Debug/netcoreapp3.1/MultiMethod.csprojAssemblyReference.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/MultiMethod/MultiMethod/obj/Debug/netcoreapp3.1/MultiMethod.AssemblyInfoInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/MultiMethod/MultiMethod/obj/Debug/netcoreapp3.1/MultiMethod.AssemblyInfo.cs
+/Users/John/Documents/GitHub/C-Sharp-Projects/MultiMethod/MultiMethod/obj/Debug/netcoreapp3.1/MultiMethod.csproj.CoreCompileInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/MultiMethod/MultiMethod/bin/Debug/netcoreapp3.1/MultiMethod.deps.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/MultiMethod/MultiMethod/bin/Debug/netcoreapp3.1/MultiMethod.runtimeconfig.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/MultiMethod/MultiMethod/bin/Debug/netcoreapp3.1/MultiMethod.runtimeconfig.dev.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/MultiMethod/MultiMethod/bin/Debug/netcoreapp3.1/MultiMethod.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/MultiMethod/MultiMethod/bin/Debug/netcoreapp3.1/MultiMethod.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/MultiMethod/MultiMethod/obj/Debug/netcoreapp3.1/MultiMethod.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/MultiMethod/MultiMethod/obj/Debug/netcoreapp3.1/MultiMethod.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/MultiMethod/MultiMethod/obj/Debug/netcoreapp3.1/MultiMethod.genruntimeconfig.cache
