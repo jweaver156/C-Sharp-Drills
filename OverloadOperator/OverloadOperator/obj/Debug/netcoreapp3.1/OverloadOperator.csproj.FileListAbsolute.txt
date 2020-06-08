@@ -1,0 +1,12 @@
+/Users/John/Documents/GitHub/C-Sharp-Projects/OverloadOperator/OverloadOperator/bin/Debug/netcoreapp3.1/OverloadOperator.deps.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/OverloadOperator/OverloadOperator/bin/Debug/netcoreapp3.1/OverloadOperator.runtimeconfig.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/OverloadOperator/OverloadOperator/bin/Debug/netcoreapp3.1/OverloadOperator.runtimeconfig.dev.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/OverloadOperator/OverloadOperator/bin/Debug/netcoreapp3.1/OverloadOperator.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/OverloadOperator/OverloadOperator/bin/Debug/netcoreapp3.1/OverloadOperator.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/OverloadOperator/OverloadOperator/obj/Debug/netcoreapp3.1/OverloadOperator.csprojAssemblyReference.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/OverloadOperator/OverloadOperator/obj/Debug/netcoreapp3.1/OverloadOperator.AssemblyInfoInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/OverloadOperator/OverloadOperator/obj/Debug/netcoreapp3.1/OverloadOperator.AssemblyInfo.cs
+/Users/John/Documents/GitHub/C-Sharp-Projects/OverloadOperator/OverloadOperator/obj/Debug/netcoreapp3.1/OverloadOperator.csproj.CoreCompileInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/OverloadOperator/OverloadOperator/obj/Debug/netcoreapp3.1/OverloadOperator.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/OverloadOperator/OverloadOperator/obj/Debug/netcoreapp3.1/OverloadOperator.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/OverloadOperator/OverloadOperator/obj/Debug/netcoreapp3.1/OverloadOperator.genruntimeconfig.cache
