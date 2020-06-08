@@ -7,8 +7,6 @@ class Program
         MultiBy multiBy = new MultiBy();
 
         //Calling method vMethod by parameter names
-        multiBy.vMethod(a: 3, b: 4);
-
-        
+        multiBy.vMethod(a: 3, b: 4);        
     }
 }

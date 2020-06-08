@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{1D732C5A-ED3C-41EF-972D-AEED4B70B618}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="tryCatchBlock/Program.cs">
     <Files>
-      <File FileName="tryCatchBlock/Program.cs" Line="1" Column="1" />
+      <File FileName="tryCatchBlock/Program.cs" Line="11" Column="40" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

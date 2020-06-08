@@ -1,0 +1,12 @@
+/Users/John/Documents/GitHub/C-Sharp-Projects/testClassFunction/testClassFunction/obj/Debug/netcoreapp3.1/testClassFunction.csprojAssemblyReference.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/testClassFunction/testClassFunction/obj/Debug/netcoreapp3.1/testClassFunction.AssemblyInfoInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/testClassFunction/testClassFunction/obj/Debug/netcoreapp3.1/testClassFunction.AssemblyInfo.cs
+/Users/John/Documents/GitHub/C-Sharp-Projects/testClassFunction/testClassFunction/obj/Debug/netcoreapp3.1/testClassFunction.csproj.CoreCompileInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/testClassFunction/testClassFunction/bin/Debug/netcoreapp3.1/testClassFunction.deps.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/testClassFunction/testClassFunction/bin/Debug/netcoreapp3.1/testClassFunction.runtimeconfig.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/testClassFunction/testClassFunction/bin/Debug/netcoreapp3.1/testClassFunction.runtimeconfig.dev.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/testClassFunction/testClassFunction/bin/Debug/netcoreapp3.1/testClassFunction.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/testClassFunction/testClassFunction/bin/Debug/netcoreapp3.1/testClassFunction.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/testClassFunction/testClassFunction/obj/Debug/netcoreapp3.1/testClassFunction.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/testClassFunction/testClassFunction/obj/Debug/netcoreapp3.1/testClassFunction.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/testClassFunction/testClassFunction/obj/Debug/netcoreapp3.1/testClassFunction.genruntimeconfig.cache

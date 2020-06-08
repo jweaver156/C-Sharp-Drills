@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{07DB6D54-8397-4329-A073-C0969220E6B0}|Default">
+  <MonoDevelop.Ide.ItemProperties.OptionalParameters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OptionalParameters/Program.cs">
+    <Files>
+      <File FileName="OptionalParameters/Program.cs" Line="21" Column="35" />
+      <File FileName="OptionalParameters/Math.cs" Line="6" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OptionalParameters" expanded="True">
+            <Node name="OptionalParameters" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

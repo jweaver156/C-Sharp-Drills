@@ -1,0 +1,12 @@
+/Users/John/Documents/GitHub/C-Sharp-Projects/classObjTwentyOne/classObjTwentyOne/bin/Debug/netcoreapp3.1/classObjTwentyOne.deps.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/classObjTwentyOne/classObjTwentyOne/bin/Debug/netcoreapp3.1/classObjTwentyOne.runtimeconfig.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/classObjTwentyOne/classObjTwentyOne/bin/Debug/netcoreapp3.1/classObjTwentyOne.runtimeconfig.dev.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/classObjTwentyOne/classObjTwentyOne/bin/Debug/netcoreapp3.1/classObjTwentyOne.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/classObjTwentyOne/classObjTwentyOne/bin/Debug/netcoreapp3.1/classObjTwentyOne.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/classObjTwentyOne/classObjTwentyOne/obj/Debug/netcoreapp3.1/classObjTwentyOne.csprojAssemblyReference.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/classObjTwentyOne/classObjTwentyOne/obj/Debug/netcoreapp3.1/classObjTwentyOne.AssemblyInfoInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/classObjTwentyOne/classObjTwentyOne/obj/Debug/netcoreapp3.1/classObjTwentyOne.AssemblyInfo.cs
+/Users/John/Documents/GitHub/C-Sharp-Projects/classObjTwentyOne/classObjTwentyOne/obj/Debug/netcoreapp3.1/classObjTwentyOne.csproj.CoreCompileInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/classObjTwentyOne/classObjTwentyOne/obj/Debug/netcoreapp3.1/classObjTwentyOne.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/classObjTwentyOne/classObjTwentyOne/obj/Debug/netcoreapp3.1/classObjTwentyOne.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/classObjTwentyOne/classObjTwentyOne/obj/Debug/netcoreapp3.1/classObjTwentyOne.genruntimeconfig.cache

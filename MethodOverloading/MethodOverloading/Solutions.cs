@@ -9,7 +9,7 @@ class Solutions
         return a * 2;
     }
 
-    //Method takes in a decimal and adds 10.
+    //Method takes in a decimal, adds 10 and returns an int.
     public int Eval(double a)
     {
         return (int)a + 10;

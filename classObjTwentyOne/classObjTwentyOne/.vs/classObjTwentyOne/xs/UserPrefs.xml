@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{58097593-7DA5-43E0-827C-31D308FA2FDC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Card.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Deck.cs" Line="1" Column="1" />
+      <File FileName="Card.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="classObjTwentyOne" expanded="True">
+            <Node name="classObjTwentyOne" expanded="True">
+              <Node name="Card.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.classObjTwentyOne PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

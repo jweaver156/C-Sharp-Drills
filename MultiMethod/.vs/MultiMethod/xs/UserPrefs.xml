@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{38197334-E31B-4E49-A801-1D9973584836}|Default">
+  <MonoDevelop.Ide.ItemProperties.MultiMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultiMethod/Program.cs">
+    <Files>
+      <File FileName="MultiMethod/Program.cs" Line="16" Column="24" />
+      <File FileName="MultiMethod/ClassOne.cs" Line="29" Column="20" />
+      <File FileName="MultiMethod/StaticOne.cs" Line="7" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultiMethod" expanded="True">
+            <Node name="MultiMethod" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4398FC88-3DF8-4CAD-A5C8-95511BECC38C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interface/IQuittable.cs">
+    <Files>
+      <File FileName="Interface/Program.cs" Line="4" Column="20" />
+      <File FileName="Interface/Employee.cs" Line="13" Column="1" />
+      <File FileName="Interface/IQuittable.cs" Line="6" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Interface" expanded="True">
+            <Node name="Interface" expanded="True">
+              <Node name="IQuittable.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Interface PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

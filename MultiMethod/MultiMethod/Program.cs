@@ -25,7 +25,7 @@ namespace MultiMethod
             StaticOne.location = "Portland";
 
             Console.WriteLine("My name is {0}", StaticOne.name);
-            Console.WriteLine("My location is {0}", StaticOne.location);
+            Console.WriteLine("My location is in {0}", StaticOne.location);
 
 
 

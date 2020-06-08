@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{27E2FE62-9756-4959-8205-0B3333D46C82}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VoidMethod/MathOper.cs">
+    <Files>
+      <File FileName="VoidMethod/Program.cs" Line="10" Column="39" />
+      <File FileName="VoidMethod/MathOper.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VoidMethod" expanded="True">
+            <Node name="VoidMethod" expanded="True">
+              <Node name="MathOper.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.VoidMethod PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
