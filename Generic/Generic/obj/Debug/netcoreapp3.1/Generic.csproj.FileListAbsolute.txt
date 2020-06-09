@@ -1,0 +1,12 @@
+/Users/John/Documents/GitHub/C-Sharp-Projects/Generic/Generic/bin/Debug/netcoreapp3.1/Generic.deps.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/Generic/Generic/bin/Debug/netcoreapp3.1/Generic.runtimeconfig.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/Generic/Generic/bin/Debug/netcoreapp3.1/Generic.runtimeconfig.dev.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/Generic/Generic/bin/Debug/netcoreapp3.1/Generic.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/Generic/Generic/bin/Debug/netcoreapp3.1/Generic.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/Generic/Generic/obj/Debug/netcoreapp3.1/Generic.csprojAssemblyReference.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/Generic/Generic/obj/Debug/netcoreapp3.1/Generic.AssemblyInfoInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/Generic/Generic/obj/Debug/netcoreapp3.1/Generic.AssemblyInfo.cs
+/Users/John/Documents/GitHub/C-Sharp-Projects/Generic/Generic/obj/Debug/netcoreapp3.1/Generic.csproj.CoreCompileInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/Generic/Generic/obj/Debug/netcoreapp3.1/Generic.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/Generic/Generic/obj/Debug/netcoreapp3.1/Generic.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/Generic/Generic/obj/Debug/netcoreapp3.1/Generic.genruntimeconfig.cache
