@@ -1,0 +1,12 @@
+/Users/John/Documents/GitHub/C-Sharp-Projects/EnumDays/EnumDays/obj/Debug/netcoreapp3.1/EnumDays.csprojAssemblyReference.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/EnumDays/EnumDays/obj/Debug/netcoreapp3.1/EnumDays.AssemblyInfoInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/EnumDays/EnumDays/obj/Debug/netcoreapp3.1/EnumDays.AssemblyInfo.cs
+/Users/John/Documents/GitHub/C-Sharp-Projects/EnumDays/EnumDays/obj/Debug/netcoreapp3.1/EnumDays.csproj.CoreCompileInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/EnumDays/EnumDays/bin/Debug/netcoreapp3.1/EnumDays.deps.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/EnumDays/EnumDays/bin/Debug/netcoreapp3.1/EnumDays.runtimeconfig.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/EnumDays/EnumDays/bin/Debug/netcoreapp3.1/EnumDays.runtimeconfig.dev.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/EnumDays/EnumDays/bin/Debug/netcoreapp3.1/EnumDays.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/EnumDays/EnumDays/bin/Debug/netcoreapp3.1/EnumDays.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/EnumDays/EnumDays/obj/Debug/netcoreapp3.1/EnumDays.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/EnumDays/EnumDays/obj/Debug/netcoreapp3.1/EnumDays.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/EnumDays/EnumDays/obj/Debug/netcoreapp3.1/EnumDays.genruntimeconfig.cache
