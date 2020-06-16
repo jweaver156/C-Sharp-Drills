@@ -1,0 +1,12 @@
+/Users/John/Documents/GitHub/C-Sharp-Projects/FileOI/FileOI/bin/Debug/netcoreapp3.1/FileOI.deps.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/FileOI/FileOI/bin/Debug/netcoreapp3.1/FileOI.runtimeconfig.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/FileOI/FileOI/bin/Debug/netcoreapp3.1/FileOI.runtimeconfig.dev.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/FileOI/FileOI/bin/Debug/netcoreapp3.1/FileOI.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/FileOI/FileOI/bin/Debug/netcoreapp3.1/FileOI.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/FileOI/FileOI/obj/Debug/netcoreapp3.1/FileOI.csprojAssemblyReference.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/FileOI/FileOI/obj/Debug/netcoreapp3.1/FileOI.AssemblyInfoInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/FileOI/FileOI/obj/Debug/netcoreapp3.1/FileOI.AssemblyInfo.cs
+/Users/John/Documents/GitHub/C-Sharp-Projects/FileOI/FileOI/obj/Debug/netcoreapp3.1/FileOI.csproj.CoreCompileInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/FileOI/FileOI/obj/Debug/netcoreapp3.1/FileOI.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/FileOI/FileOI/obj/Debug/netcoreapp3.1/FileOI.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/FileOI/FileOI/obj/Debug/netcoreapp3.1/FileOI.genruntimeconfig.cache
