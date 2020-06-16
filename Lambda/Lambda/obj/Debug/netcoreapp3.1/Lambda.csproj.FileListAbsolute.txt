@@ -1,0 +1,12 @@
+/Users/John/Documents/GitHub/C-Sharp-Projects/Lambda/Lambda/bin/Debug/netcoreapp3.1/Lambda.deps.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/Lambda/Lambda/bin/Debug/netcoreapp3.1/Lambda.runtimeconfig.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/Lambda/Lambda/bin/Debug/netcoreapp3.1/Lambda.runtimeconfig.dev.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/Lambda/Lambda/bin/Debug/netcoreapp3.1/Lambda.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/Lambda/Lambda/bin/Debug/netcoreapp3.1/Lambda.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/Lambda/Lambda/obj/Debug/netcoreapp3.1/Lambda.csprojAssemblyReference.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/Lambda/Lambda/obj/Debug/netcoreapp3.1/Lambda.AssemblyInfoInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/Lambda/Lambda/obj/Debug/netcoreapp3.1/Lambda.AssemblyInfo.cs
+/Users/John/Documents/GitHub/C-Sharp-Projects/Lambda/Lambda/obj/Debug/netcoreapp3.1/Lambda.csproj.CoreCompileInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/Lambda/Lambda/obj/Debug/netcoreapp3.1/Lambda.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/Lambda/Lambda/obj/Debug/netcoreapp3.1/Lambda.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/Lambda/Lambda/obj/Debug/netcoreapp3.1/Lambda.genruntimeconfig.cache
