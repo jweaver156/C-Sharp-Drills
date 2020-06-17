@@ -1,0 +1,12 @@
+/Users/John/Documents/GitHub/C-Sharp-Projects/AssembliesNamesLibr/AssembliesNamesLibr/bin/Debug/netcoreapp3.1/AssembliesNamesLibr.deps.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/AssembliesNamesLibr/AssembliesNamesLibr/bin/Debug/netcoreapp3.1/AssembliesNamesLibr.runtimeconfig.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/AssembliesNamesLibr/AssembliesNamesLibr/bin/Debug/netcoreapp3.1/AssembliesNamesLibr.runtimeconfig.dev.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/AssembliesNamesLibr/AssembliesNamesLibr/bin/Debug/netcoreapp3.1/AssembliesNamesLibr.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/AssembliesNamesLibr/AssembliesNamesLibr/bin/Debug/netcoreapp3.1/AssembliesNamesLibr.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/AssembliesNamesLibr/AssembliesNamesLibr/obj/Debug/netcoreapp3.1/AssembliesNamesLibr.csprojAssemblyReference.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/AssembliesNamesLibr/AssembliesNamesLibr/obj/Debug/netcoreapp3.1/AssembliesNamesLibr.AssemblyInfoInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/AssembliesNamesLibr/AssembliesNamesLibr/obj/Debug/netcoreapp3.1/AssembliesNamesLibr.AssemblyInfo.cs
+/Users/John/Documents/GitHub/C-Sharp-Projects/AssembliesNamesLibr/AssembliesNamesLibr/obj/Debug/netcoreapp3.1/AssembliesNamesLibr.csproj.CoreCompileInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/AssembliesNamesLibr/AssembliesNamesLibr/obj/Debug/netcoreapp3.1/AssembliesNamesLibr.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/AssembliesNamesLibr/AssembliesNamesLibr/obj/Debug/netcoreapp3.1/AssembliesNamesLibr.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/AssembliesNamesLibr/AssembliesNamesLibr/obj/Debug/netcoreapp3.1/AssembliesNamesLibr.genruntimeconfig.cache
