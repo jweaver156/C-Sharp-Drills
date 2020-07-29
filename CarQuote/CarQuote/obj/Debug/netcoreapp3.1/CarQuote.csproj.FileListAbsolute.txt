@@ -1,0 +1,12 @@
+/Users/John/Documents/GitHub/C-Sharp-Projects/CarQuote/CarQuote/bin/Debug/netcoreapp3.1/CarQuote.deps.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/CarQuote/CarQuote/bin/Debug/netcoreapp3.1/CarQuote.runtimeconfig.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/CarQuote/CarQuote/bin/Debug/netcoreapp3.1/CarQuote.runtimeconfig.dev.json
+/Users/John/Documents/GitHub/C-Sharp-Projects/CarQuote/CarQuote/bin/Debug/netcoreapp3.1/CarQuote.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/CarQuote/CarQuote/bin/Debug/netcoreapp3.1/CarQuote.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/CarQuote/CarQuote/obj/Debug/netcoreapp3.1/CarQuote.csprojAssemblyReference.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/CarQuote/CarQuote/obj/Debug/netcoreapp3.1/CarQuote.AssemblyInfoInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/CarQuote/CarQuote/obj/Debug/netcoreapp3.1/CarQuote.AssemblyInfo.cs
+/Users/John/Documents/GitHub/C-Sharp-Projects/CarQuote/CarQuote/obj/Debug/netcoreapp3.1/CarQuote.csproj.CoreCompileInputs.cache
+/Users/John/Documents/GitHub/C-Sharp-Projects/CarQuote/CarQuote/obj/Debug/netcoreapp3.1/CarQuote.dll
+/Users/John/Documents/GitHub/C-Sharp-Projects/CarQuote/CarQuote/obj/Debug/netcoreapp3.1/CarQuote.pdb
+/Users/John/Documents/GitHub/C-Sharp-Projects/CarQuote/CarQuote/obj/Debug/netcoreapp3.1/CarQuote.genruntimeconfig.cache
